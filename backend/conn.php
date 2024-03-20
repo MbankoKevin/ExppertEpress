@@ -1,0 +1,1 @@
+<?php $link = mysqli_connect("localhost", "carg_user", "Carg_12345", "carg_data"); ?>
